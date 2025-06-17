@@ -25,8 +25,7 @@ This project compares two approaches for estimating golf swing speed:
 - `src/`: Training scripts
 - `models/`: Trained models (`.h5` or `.pkl`)
 - `data/`: Cleaned example dataset
-- `notebooks/`: (optional) Jupyter notebooks for visualization and analysis
-
+- 
 ---
 
 ## 📊 Results
