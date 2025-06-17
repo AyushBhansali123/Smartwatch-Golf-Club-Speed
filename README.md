@@ -2,6 +2,7 @@
 
 Use smartwatch motion sensors (IMU) to predict golf swing speed using machine learning.  
 This project is a **WORK IN PROGRESS** and will be updated frequently.
+Part of the Elepoia app project.
 
 Currently, a **Random Forest** model is used for accurate and interpretable predictions based on summary statistics extracted from motion data.
 
