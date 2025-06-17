@@ -1,6 +1,6 @@
 # 🏌️ Smartwatch-Golf-Club-Speed
 
-Use smartwatch motion sensors (IMU) to predict golf swing speed using machine learning. WORK IN PROGRESS
+Use smartwatch motion sensors (IMU) to predict golf swing speed using machine learning. This project is a **WORK IN PROGRESS.** Currently a random forest model is used for accurate and interpretable predictions based on summary statistics extracted from motion data.
 
 ## 📦 Project Overview
 
